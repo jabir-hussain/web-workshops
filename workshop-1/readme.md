@@ -11,7 +11,7 @@ Welcome to the Web Application Workshop Series repository! This series of worksh
 ### 2. Introduction to the Internet
 
 - **Objective:** Understand the basics of how the internet works, including its history and key concepts.
-- **For More Details:** You can visits [Internet Introduction](https://roadmap.sh/guides/what-is-internet) or [what is an internet]([introduction](https://github.com/jabir-hussain/web-workshops/blob/workshop-1/workshop-1/introduction-of-internet.md)
+- **For More Details:** You can visits [Internet Introduction](https://roadmap.sh/guides/what-is-internet) or [what is an internet](https://github.com/jabir-hussain/web-workshops/blob/workshop-1/workshop-1/introduction-of-internet.md)
 
 ### 3. HTTP: The Foundation of the Web
 
