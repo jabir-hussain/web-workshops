@@ -10,7 +10,12 @@ Welcome to the Web Application Workshop Series repository! This series of worksh
 
 ### 2. Introduction
 
-- **Objective:** Introduction to the main building blocks of Web Application.
+- **Objective:** Introduction to the main building blocks of Web Application like Browser, HTML, CSS, JavaScript, Server (Node).
+
+### 3. Start with HTML
+
+-  **Objective:** Basics of HTML should be covered and give hands-on excercise to understand the HTML properly
+-  **Assignment:** All the members will implement the real world website by using HTML on their machines, push the code to remote repository and create pull request to review the progress. For website mockups you can visits Figma [link](https://www.figma.com/file/oXrvePqMmvJZ8hAUNuklYp/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=0%3A88&mode=dev).
 
 ## Getting Started
 
