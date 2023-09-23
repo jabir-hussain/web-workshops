@@ -8,26 +8,9 @@ Welcome to the Web Application Workshop Series repository! This series of worksh
 
 - **Objective:** Get your development environment ready for web development.
 
-### 2. Introduction to the Internet
+### 2. Introduction
 
-- **Objective:** Understand the basics of how the internet works, including its history and key concepts.
-- **For More Details:** You can visits [Internet Introduction](https://roadmap.sh/guides/what-is-internet) or [what is an internet](https://github.com/jabir-hussain/web-workshops/blob/workshop-1/workshop-1/introduction-of-internet.md)
-
-### 3. HTTP: The Foundation of the Web
-
-- **Objective:** Dive into the Hypertext Transfer Protocol (HTTP) and learn how it facilitates communication on the web.
-
-### 4. Domain Names and Their Role
-
-- **Objective:** Explore domain names, how they work, and their importance in web addressing.
-
-### 5. Hosting: Where Websites Live
-
-- **Objective:** Discover the concept of web hosting and learn how websites are stored and accessed online.
-
-### 6. Demystifying DNS (Domain Name System)
-
-- **Objective:** Demystify the Domain Name System (DNS) and understand its role in translating domain names to IP addresses.
+- **Objective:** Introduction to the main building blocks of Web Application.
 
 ## Getting Started
 
