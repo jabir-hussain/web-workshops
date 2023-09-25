@@ -14,8 +14,8 @@ Welcome to the Web Application Workshop Series repository! This series of worksh
 
 ### 3. Start with HTML
 
--  **Objective:** Basics of HTML should be covered and give hands-on excercise to understand the HTML properly
--  **Assignment:** All the members will implement the real world website by using HTML on their machines, push the code to remote repository and create pull request to review the progress. For website mockups you can visits Figma [link](https://www.figma.com/file/oXrvePqMmvJZ8hAUNuklYp/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=0%3A88&mode=dev).
+- **Objective:** Basics of HTML should be covered and give hands-on excercise to understand the HTML properly
+- **Assignment:** All the members will implement the real world website by using HTML on their machines, push the code to remote repository and create pull request to review the progress. For website mockups you can visits Figma [link](<https://www.figma.com/file/oXrvePqMmvJZ8hAUNuklYp/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=0%3A88&mode=dev>).
 
 ## Getting Started
 
@@ -32,9 +32,3 @@ We have provided additional resources, including code examples and reference mat
 ## Feedback and Contributions
 
 Your feedback is essential to improving this workshop series. If you have suggestions, spot errors, or want to contribute additional content, please don't hesitate to create issues or pull requests. We appreciate your input!
-
-## Stay Connected
-
-Join our community to stay updated on future workshops and connect with fellow learners. Follow us on [Twitter](https://twitter.com/YourWorkshopSeries) and join our [Discord community](https://discord.gg/YourWorkshopSeries).
-
-Happy learning, and enjoy the workshops!
