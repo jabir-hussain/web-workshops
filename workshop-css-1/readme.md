@@ -1,13 +1,13 @@
 ### Introduction to CSS
 
-- [+] What is CSS?
-- [-] What does CSS do?
-- [-] How does CSS work?
-- [-] What can CSS do?
-- [-] How do you add CSS to a page?
-- [-] CSS syntax
-- [-] CSS modules
-- [-] Summary
+- [x] What is CSS?
+- [x] What does CSS do?
+- [x] How does CSS work?
+- [x] What can CSS do?
+- [x] How do you add CSS to a page?
+- [x] CSS syntax
+- [x] CSS modules
+- [x] Summary
 
 ### Getting started with CSS
 
