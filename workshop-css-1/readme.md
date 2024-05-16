@@ -1,6 +1,6 @@
 ### Introduction to CSS
 
-- [-] What is CSS?
+- [+] What is CSS?
 - [-] What does CSS do?
 - [-] How does CSS work?
 - [-] What can CSS do?
