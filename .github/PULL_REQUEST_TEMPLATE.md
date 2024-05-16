@@ -1,4 +1,4 @@
-## Pull Request Template
+## [Pull Request Title]
 
 **Description:**
 
@@ -22,3 +22,7 @@
 **Additional Notes:**
 
 [Add any additional notes or comments here.]
+
+**Tag your Pull Request**
+
+[you can choose one of the tags "Bug Fix", "New Feature", "Enhancement" ]
