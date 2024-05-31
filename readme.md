@@ -6,40 +6,40 @@
 - [x] What can CSS do?
 - [x] How do you add CSS to a page?
 - [x] CSS syntax
-- [x] CSS modules
+- [ ] CSS modules
 - [x] Summary
 
 ### Getting started with CSS
 
-- [ ] What will you learn?
-- [ ] Setting up the project files
-- [ ] Writing our first CSS
-- [ ] How does CSS work?
+- [x] What will you learn?
+- [x] Setting up the project files
+- [x] Writing our first CSS
+- [x] How does CSS work?
 
 ### How CSS is structured
 
-- [ ] Anatomy of a CSS ruleset
-- [ ] Types of CSS rules
-- [ ] What is specificity?
-- [ ] Summary
+- [x] Anatomy of a CSS ruleset
+- [x] Types of CSS rules
+- [x] What is specificity?
+- [x] Summary
 
 ### CSS building blocks
 
-- [ ] Introduction
-- [ ] Selectors
-- [ ] Cascade and inheritance
-- [ ] Box model
+- [x] Introduction
+- [x] Selectors
+- [x] Cascade and inheritance
+- [x] Box model
 - [ ] Units
-- [ ] Colors
-- [ ] Text styling
-- [ ] Images
-- [ ] Summary
+- [x] Colors
+- [x] Text styling
+- [x] Images
+- [x] Summary
 
 ### CSS layout
 
-- [ ] Introduction
-- [ ] Normal flow
-- [ ] Flexbox
+- [x] Introduction
+- [x] Normal flow
+- [x] Flexbox
 - [ ] Grids
 - [ ] Floats
 - [ ] Positioning
