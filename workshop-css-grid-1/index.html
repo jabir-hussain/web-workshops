@@ -3,49 +3,50 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Introduction to CSS Grids</title>
+    <title>Grid Area</title>
 
     <style>
-      .grids {
+      body {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(4, 200px);
-        gap: 10px 20px;
-        list-style: none;
+        grid-template-columns: 150px calc(100% - 150px);
+        grid-template-rows: 100px calc(100vh - 100px);
+        gap: 10px;
+        grid-template-areas:
+          "header header"
+          "sidebar main";
       }
 
-      .item {
-        border: 4px solid orange;
+      header {
+        grid-area: header;
+        background-color: lightcoral;
       }
 
-      .item img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+      .sidebar {
+        grid-area: sidebar;
+        background-color: blue;
       }
 
-      .item-6 {
-        grid-column-start: 2;
-        grid-column-end: 5;
+      main {
+        grid-area: main;
+        background-color: lightgreen;
       }
 
-      .item-5 {
-        grid-row-start: 2;
-        grid-row-end: 5;
+      .logo {
+        grid-area: logo;
+      }
+
+      .search {
+        grid-area: search;
+      }
+
+      .nav {
+        grid-area: nav;
       }
     </style>
   </head>
   <body>
-    <ul class="grids">
-      <li class="item"><img src="./images/1.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/2.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/3.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/4.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/5.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/6.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/7.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="./images/8.jpg" alt="" class="image" /></li>
-      <li class="item"><img src="images/9.jpeg" alt="" class="image" /></li>
-    </ul>
+    <header class="grids"></header>
+    <div class="sidebar"></div>
+    <main></main>
   </body>
 </html>
